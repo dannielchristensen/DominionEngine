@@ -1,0 +1,112 @@
+name:Copper|cost:0|type:Treasure|A:0|B:0|C:0|T:False|V:1|VP:0
+name:Curse|cost:0|type:Curse|A:0|B:0|C:0|T:False|V:0|VP:-1
+name:Estate|cost:2|type:Victory|A:0|B:0|C:0|T:False|V:0|VP:1
+name:Silver|cost:3|type:Treasure|A:0|B:0|C:0|T:False|V:2|VP:0
+name:Duchy|cost:5|type:Victory|A:0|B:0|C:0|T:False|V:0|VP:3
+name:Gold|cost:6|type:Treasure|A:0|B:0|C:0|T:False|V:3|VP:0
+name:Province|cost:8|type:Victory|A:0|B:0|C:0|T:False|V:0|VP:6
+name:Cellar|cost:2|type:Action|A:1|B:0|C:0|T:False|V:0|VP:0
+name:Chapel|cost:2|type:Action|A:0|B:0|C:0|T:True|V:0|VP:0
+name:Moat|cost:2|type:Action - Reaction|A:0|B:0|C:2|T:False|V:0|VP:0
+name:Harbinger|cost:3|type:Action|A:1|B:0|C:1|T:False|V:0|VP:0
+name:Merchant|cost:3|type:Action|A:1|B:0|C:1|T:False|V:0|VP:0
+name:Vassal|cost:3|type:Action|A:0|B:0|C:0|T:False|V:2|VP:0
+name:Village|cost:3|type:Action|A:2|B:0|C:1|T:False|V:0|VP:0
+name:Workshop|cost:3|type:Action|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Bureaucrat|cost:4|type:Action - Attack|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Gardens|cost:4|type:Victory|A:0|B:0|C:0|T:False|V:0|VP:
+name:Militia|cost:4|type:Action - Attack|A:0|B:0|C:0|T:False|V:2|VP:0
+name:Moneylender|cost:4|type:Action|A:0|B:0|C:0|T:True|V:0|VP:0
+name:Poacher|cost:4|type:Action|A:1|B:0|C:1|T:False|V:1|VP:0
+name:Remodel|cost:4|type:Action|A:0|B:0|C:0|T:True|V:0|VP:0
+name:Smithy|cost:4|type:Action|A:0|B:0|C:3|T:False|V:0|VP:0
+name:Throne Room|cost:4|type:Action|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Bandit|cost:5|type:Action - Attack|A:0|B:0|C:0|T:True|V:0|VP:0
+name:Council Room|cost:5|type:Action|A:0|B:1|C:4|T:False|V:0|VP:0
+name:Festival|cost:5|type:Action|A:2|B:1|C:0|T:False|V:2|VP:0
+name:Laboratory|cost:5|type:Action|A:1|B:0|C:2|T:False|V:0|VP:0
+name:Library|cost:5|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Market|cost:5|type:Action|A:1|B:1|C:1|T:False|V:1|VP:0
+name:Mine|cost:5|type:Action|A:0|B:0|C:0|T:True|V:0|VP:0
+name:Sentry|cost:5|type:Action|A:1|B:0|C:1|T:True|V:0|VP:0
+name:Witch|cost:5|type:Action - Attack|A:0|B:0|C:2|T:False|V:0|VP:0
+name:Artisan|cost:6|type:Action|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Chancellor|cost:3|type:Action|A:0|B:0|C:0|T:False|V:2|VP:0
+name:Woodcutter|cost:3|type:Action|A:0|B:1|C:0|T:False|V:2|VP:0
+name:Feast|cost:4|type:Action|A:0|B:0|C:0|T:True|V:0|VP:0
+name:Spy|cost:4|type:Action - Attack|A:1|B:0|C:1|T:False|V:0|VP:0
+name:Thief|cost:4|type:Action - Attack|A:0|B:0|C:0|T:True|V:0|VP:0
+name:Adventurer|cost:6|type:Action|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Copper|cost:0|type:Treasure|A:0|B:0|C:0|T:False|V:1|VP:0
+name:Curse|cost:0|type:Curse|A:0|B:0|C:0|T:False|V:0|VP:-1
+name:Estate|cost:2|type:Victory|A:0|B:0|C:0|T:False|V:0|VP:1
+name:Silver|cost:3|type:Treasure|A:0|B:0|C:0|T:False|V:2|VP:0
+name:Duchy|cost:5|type:Victory|A:0|B:0|C:0|T:False|V:0|VP:3
+name:Gold|cost:6|type:Treasure|A:0|B:0|C:0|T:False|V:3|VP:0
+name:Province|cost:8|type:Victory|A:0|B:0|C:0|T:False|V:0|VP:6
+name:Courtyard|cost:2|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Lurker|cost:2|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Pawn|cost:2|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Masquerade|cost:3|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Shanty Town|cost:3|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Steward|cost:3|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Swindler|cost:3|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Wishing Well|cost:3|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Baron|cost:4|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Bridge|cost:4|type:Action|A:0|B:1|C:0|T:False|V:1|VP:0
+name:Conspirator|cost:4|type:Action|A:0|B:0|C:0|T:False|V:2|VP:0
+name:Diplomat|cost:4|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Ironworks|cost:4|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Mill|cost:4|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Mining Village|cost:4|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Secret Passage|cost:4|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Courtier|cost:5|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Duke|cost:5|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Minion|cost:5|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Patrol|cost:5|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Replace|cost:5|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Torturer|cost:5|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Trading Post|cost:5|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Upgrade|cost:5|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Harem|cost:6|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Nobles|cost:6|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Secret Chamber|cost:2|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Great Hall|cost:3|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Coppersmith|cost:4|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Scout|cost:4|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Saboteur|cost:5|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Tribute|cost:5|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Encampment|cost:2|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Plunder|cost:2|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Patrician|cost:2|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Emporium|cost:2|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Settlers|cost:2|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Bustling Village|cost:2|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Castles|cost:3|type:Victory - Castle|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Catapult|cost:3|type:Action - Attack|A:0|B:0|C:0|T:True|V:1|VP:0
+name:Rocks|cost:3|type:Treasure|A:0|B:0|C:0|T:False|V:1|VP:0
+name:Chariot Race|cost:3|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Enchantress|cost:3|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Farmers' Market|cost:3|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Gladiator|cost:3|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Fortune|cost:3|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Sacrifice|cost:4|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Temple|cost:4|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Villa|cost:4|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Archive|cost:5|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Capital|cost:5|type:Treasure|A:0|B:0|C:0|T:False|V:6|VP:0
+name:Charm|cost:5|type:Treasure|A:0|B:0|C:0|T:False|V:2|VP:0
+name:Crown|cost:5|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Forum|cost:5|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Groundskeeper|cost:5|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Legionary|cost:5|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Wild Hunt|cost:5|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Advance|cost:0|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Delve|cost:2|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Tax|cost:2|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Banquet|cost:3|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Ritual|cost:4|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Salt the Earth|cost:4|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Wedding|cost:4|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Conquest|cost:6|type:|A:0|B:0|C:0|T:False|V:0|VP:0
+name:Dominate|cost:14|type:|A:0|B:0|C:0|T:False|V:0|VP:0
